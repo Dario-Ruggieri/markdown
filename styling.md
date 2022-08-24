@@ -10,5 +10,5 @@ You can modify your text like you want:
 - <sub>This is subscript text</sub>
 - <sup>This is superscript text</sup>
 
-I think that all this things are ** amazing **!!
+I think that all this things are ** amazing ** !!
 I can modify all I want!!!
