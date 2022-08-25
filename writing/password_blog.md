@@ -45,4 +45,18 @@ _KeePassXC_ è disponibile per Windows, Linux e MacOS. Installarlo è sempliciss
 ### Come Funziona
 
 _KeePassXC_ è semplicissimo da usare. Cliccando sull'icona _Create a new database_ si procederà con la creazione di un nuovo database per le nostre password
+
 ![Home page KeePassXC](/img/password_blog.png)
+
+Successivamente verrà chiesta la password del database.
+
+> NOTA: Questa password deve essere sicura e deve essere ricordata assolutamente. La sua perdita comporterà la perdita di **_tutte_** le altre password!
+
+Una volta creato il database è possbile salvare al suo interno tutte le password che si vuole, che saranno caratterizzate da:
+
+- titolo
+- nome utente
+- URL
+- descrizione
+
+Con questo concludiamo il post dedicato alle password. Buono smanettamento e alla prossima!
