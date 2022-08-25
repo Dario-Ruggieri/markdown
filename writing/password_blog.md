@@ -36,3 +36,13 @@ Se vuoi scoprire queste funzioni semplicemente consulta il manuale:
 man pwgen
 
 ```
+
+## Password Manager
+
+Abbiamo visto come generare una password, ora scopriamo come custodirla. Un password manager è un programma che ci permette di custodire in modo sicuro le nostre password. Anche qui esistono migliaia di password manager. In questo post vorrei approfondire il password manager _KeePassXC_
+_KeePassXC_ è disponibile per Windows, Linux e MacOS. Installarlo è semplicissimo, accedendo alla [pagina ufficiale](https://keepassxc.org/) nella sezione _download_ è possibile scaricare ed installare _KeePassXC_.
+
+### Come Funziona
+
+_KeePassXC_ è semplicissimo da usare. Cliccando sull'icona _Create a new database_ si procederà con la creazione di un nuovo database per le nostre password
+![Home page KeePassXC](img/password_blog.png)
