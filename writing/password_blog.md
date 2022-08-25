@@ -14,9 +14,25 @@ Esistono migliaia se non milioni di programmi per generare password. Tra i più 
 - [1Password (Windows/macOS)](https://1password.com/it/sign-up/?utm_source=google&utm_medium=cpc&utm_campaign=11596051800&utm_content=479150720150&utm_term=1password&gclid=EAIaIQobChMI0f7op9ji-QIVxI1oCR2zUgy3EAAYASAAEgIb2PD_BwE&gclsrc=aw.ds)
 - [KeePass (Windows/macOS/Linux)](https://www.keepassx.org/) _che approfondiremo più avanti_
 
-Queste sono sicuramente valide scelte, ma per coloro che usano _Linux_ tutto ciò non servirà. Come sempre _Linux_ ha un tool al nostro servizio. Questo tool è _pwgen_, comando da terminale che ci permette di generare qualsiasi tipo di password. Usarlo è semplicissimo, basta digitare il comando ed eseguire:
+Queste sono sicuramente valide scelte, ma per coloro che usano _Linux_ tutto ciò non servirà. Come sempre, _Linux_ ha un tool al nostro servizio. Questo tool è _pwgen_, comando da terminale che ci permette di generare qualsiasi tipo di password. Usarlo è semplicissimo, basta digitare il comando ed eseguire:
 
 ```
 pwgen
+
+```
+
+Installare _pwgen_ è semplicissimo, esegui questi due comandi e il gioco sarà fatto:
+
+```
+sudo apt-get update
+sudo apt-get install pwgen
+
+```
+
+_pwgen_ ti permette di generare le password che vuoi, esistono tantissime varianti. Puoi specificare il numero di caratteri, la tipologia, la complessità della tua password....
+Se vuoi scoprire queste funzioni semplicemente consulta il manuale:
+
+```
+man pwgen
 
 ```
